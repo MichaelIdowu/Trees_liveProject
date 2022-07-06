@@ -1,0 +1,26 @@
+E:\SourceCode\CQF\0. Solutions Architect Training\CSharp Solutions\binary_node1\binary_node1\obj\Debug\netcoreapp3.1\binary_node1.csprojAssemblyReference.cache
+E:\SourceCode\CQF\0. Solutions Architect Training\CSharp Solutions\binary_node1\binary_node1\obj\Debug\netcoreapp3.1\binary_node1.AssemblyInfoInputs.cache
+E:\SourceCode\CQF\0. Solutions Architect Training\CSharp Solutions\binary_node1\binary_node1\obj\Debug\netcoreapp3.1\binary_node1.AssemblyInfo.cs
+E:\SourceCode\CQF\0. Solutions Architect Training\CSharp Solutions\binary_node1\binary_node1\obj\Debug\netcoreapp3.1\binary_node1.csproj.CoreCompileInputs.cache
+E:\SourceCode\CQF\0. Solutions Architect Training\CSharp Solutions\binary_node1\binary_node1\bin\Debug\netcoreapp3.1\binary_node1.exe
+E:\SourceCode\CQF\0. Solutions Architect Training\CSharp Solutions\binary_node1\binary_node1\bin\Debug\netcoreapp3.1\binary_node1.deps.json
+E:\SourceCode\CQF\0. Solutions Architect Training\CSharp Solutions\binary_node1\binary_node1\bin\Debug\netcoreapp3.1\binary_node1.runtimeconfig.json
+E:\SourceCode\CQF\0. Solutions Architect Training\CSharp Solutions\binary_node1\binary_node1\bin\Debug\netcoreapp3.1\binary_node1.runtimeconfig.dev.json
+E:\SourceCode\CQF\0. Solutions Architect Training\CSharp Solutions\binary_node1\binary_node1\bin\Debug\netcoreapp3.1\binary_node1.dll
+E:\SourceCode\CQF\0. Solutions Architect Training\CSharp Solutions\binary_node1\binary_node1\bin\Debug\netcoreapp3.1\binary_node1.pdb
+E:\SourceCode\CQF\0. Solutions Architect Training\CSharp Solutions\binary_node1\binary_node1\obj\Debug\netcoreapp3.1\binary_node1.dll
+E:\SourceCode\CQF\0. Solutions Architect Training\CSharp Solutions\binary_node1\binary_node1\obj\Debug\netcoreapp3.1\binary_node1.pdb
+E:\SourceCode\CQF\0. Solutions Architect Training\CSharp Solutions\binary_node1\binary_node1\obj\Debug\netcoreapp3.1\binary_node1.genruntimeconfig.cache
+E:\SourceCode\CQF\0. Solutions Architect Training\Trees_liveProject\binary_node1\binary_node1\bin\Debug\netcoreapp3.1\binary_node1.exe
+E:\SourceCode\CQF\0. Solutions Architect Training\Trees_liveProject\binary_node1\binary_node1\bin\Debug\netcoreapp3.1\binary_node1.deps.json
+E:\SourceCode\CQF\0. Solutions Architect Training\Trees_liveProject\binary_node1\binary_node1\bin\Debug\netcoreapp3.1\binary_node1.runtimeconfig.json
+E:\SourceCode\CQF\0. Solutions Architect Training\Trees_liveProject\binary_node1\binary_node1\bin\Debug\netcoreapp3.1\binary_node1.runtimeconfig.dev.json
+E:\SourceCode\CQF\0. Solutions Architect Training\Trees_liveProject\binary_node1\binary_node1\bin\Debug\netcoreapp3.1\binary_node1.dll
+E:\SourceCode\CQF\0. Solutions Architect Training\Trees_liveProject\binary_node1\binary_node1\bin\Debug\netcoreapp3.1\binary_node1.pdb
+E:\SourceCode\CQF\0. Solutions Architect Training\Trees_liveProject\binary_node1\binary_node1\obj\Debug\netcoreapp3.1\binary_node1.csprojAssemblyReference.cache
+E:\SourceCode\CQF\0. Solutions Architect Training\Trees_liveProject\binary_node1\binary_node1\obj\Debug\netcoreapp3.1\binary_node1.AssemblyInfoInputs.cache
+E:\SourceCode\CQF\0. Solutions Architect Training\Trees_liveProject\binary_node1\binary_node1\obj\Debug\netcoreapp3.1\binary_node1.AssemblyInfo.cs
+E:\SourceCode\CQF\0. Solutions Architect Training\Trees_liveProject\binary_node1\binary_node1\obj\Debug\netcoreapp3.1\binary_node1.csproj.CoreCompileInputs.cache
+E:\SourceCode\CQF\0. Solutions Architect Training\Trees_liveProject\binary_node1\binary_node1\obj\Debug\netcoreapp3.1\binary_node1.dll
+E:\SourceCode\CQF\0. Solutions Architect Training\Trees_liveProject\binary_node1\binary_node1\obj\Debug\netcoreapp3.1\binary_node1.pdb
+E:\SourceCode\CQF\0. Solutions Architect Training\Trees_liveProject\binary_node1\binary_node1\obj\Debug\netcoreapp3.1\binary_node1.genruntimeconfig.cache
